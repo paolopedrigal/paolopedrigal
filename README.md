@@ -5,11 +5,7 @@
 - 🎓 B.S. Computer Science @ University of California, Irvine
 - 🌉 Based in the San Francisco Bay Area, California, United States
 - 📚 Currently learning React Native for cross-platform mobile development
-
-### Socials / Contact Info
-- ✍️ If you haven't already, check out my [personal website!](https://paolopedrigal.github.io/)
-- 📧 Email me at [paolopedrigal@gmail.com](mailto:paolopedrigal@gmail.com?subject=Hello)
-- 📱 Connect with me on [LinkedIn](https://www.linkedin/in/paolopedrigal/)
+- 📧 Contact me at [paolopedrigal@gmail.com](mailto:paolopedrigal@gmail.com?subject=Hello)
 
 <!-- ![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolopedrigal&show_icons=true&theme=nord) -->
 
