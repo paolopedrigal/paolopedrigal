@@ -4,7 +4,7 @@
 - 💻 **Software Engineer** (React developer) in a startup called *Tayo.One*, a platform with content all things related to the Filipino-American community
 - 🎓 B.S. Computer Science @ University of California, Irvine
 - 🌉 Based in the San Francisco Bay Area, California, United States
-- 📚 Currently learning React Native for cross-platform mobile development
+- 📚 Currently building a React Native <-> Supabase social media app
 - 📧 Contact me at [paolopedrigal@gmail.com](mailto:paolopedrigal@gmail.com?subject=Hello)
 
 ### Quick Stats
