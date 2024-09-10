@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Paolo (POW-LOH) 🗣️
 
 ### About Me
-- 💻 **Software Engineer** (TypeScript/React developer) in a startup called *Tayo.One*, a platform with content all things related to the Filipino-American community
+- 💻 **Software Engineer** in a startup called *Tayo.One*, a platform with content all things related to the Filipino-American community
 - 🎓 B.S. Computer Science @ University of California, Irvine
 - 🌉 Based in the San Francisco Bay Area, California, United States
 - 📚 Currently building a React Native <-> Supabase social media app
