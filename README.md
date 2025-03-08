@@ -1,9 +1,9 @@
 # Hello! 👋 I'm Paolo (POW-LOH) 🗣️
 
 ### About Me
+- 📚 Currently building a React Native <-> Supabase social media app
 - 🎓 B.S. Computer Science @ University of California, Irvine
 - 🌉 Based in the San Francisco Bay Area, California, United States
-- 📚 Currently building a React Native <-> Supabase social media app
 - 📧 Contact me at [paolopedrigal@gmail.com](mailto:paolopedrigal@gmail.com?subject=Hello)
 
 ### Quick Stats
